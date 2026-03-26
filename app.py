@@ -441,7 +441,7 @@ if generate_btn:
         # fallback: link to RR best companions article
         st.markdown(
             '<div class="affiliate-strip">Not sure which platform fits you? '
-            '<a href="https://www.roborhythms.com/best-ai-companion-apps/" target="_blank" style="color:#111;font-weight:700;">'
+            '<a href="https://www.roborhythms.com/uncensored-websites-like-character/" target="_blank" style="color:#111;font-weight:700;">'
             'Compare all AI companion apps →</a></div>',
             unsafe_allow_html=True,
         )
