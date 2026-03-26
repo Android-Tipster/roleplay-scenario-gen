@@ -465,6 +465,6 @@ st.markdown("---")
 st.markdown(
     '<p style="font-size:12px;color:#d1d5db;text-align:center;">'
     'AI Roleplay Scenario Generator by <a href="https://www.roborhythms.com" style="color:#d1d5db;">RoboRhythms</a> '
-    '· Scenarios generated with Claude · Not affiliated with any AI companion platform listed.</p>',
+    '· Not affiliated with any AI companion platform listed.</p>',
     unsafe_allow_html=True,
 )
