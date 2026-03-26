@@ -223,7 +223,7 @@ PLATFORMS = {
         "group": "unfiltered",
         "label": "Unfiltered",
         "note": "No content restrictions. Full creative freedom — write as bold, vivid, or intense as the scenario demands.",
-        "aff_label": "Try Crushon.AI", "aff_url": "https://crownmediacreative.com/CrushOnAI-Chatbot",
+        "aff_label": "Try Crushon.AI", "aff_url": "https://crownmediacreative.com/NewCrushOnAI",
     },
     "SpicyChat": {
         "group": "unfiltered",
