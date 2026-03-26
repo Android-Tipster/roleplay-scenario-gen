@@ -296,6 +296,7 @@ DYNAMICS = [
 # Generation
 # ---------------------------------------------------------------------------
 
+@st.cache_resource
 def get_client():
     try:
         api_key = st.secrets["ANTHROPIC_API_KEY"]
@@ -311,8 +312,6 @@ def get_client():
 
 def generate_scenarios(platform, genre, tone, dynamic, character_hint):
     p = PLATFORMS[platform]
-    client = get_client()
-
     char_context = f"\nUser's character hint: {character_hint.strip()}" if character_hint.strip() else ""
     content_rule = GROUP_INSTRUCTION[p.get("group") or "filtered"]
 
