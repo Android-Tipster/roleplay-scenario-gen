@@ -66,7 +66,7 @@ st.markdown("""
     }
     .opening-msg {
         background: #f9fafb;
-        border-left: 3px solid #6366f1;
+        border-left: 3px solid #C0622B;
         border-radius: 0 8px 8px 0;
         padding: 10px 14px;
         font-size: 14px;
@@ -102,7 +102,7 @@ st.markdown("""
     .note-semi      { background: #fffbeb; border: 1px solid #fde68a; color: #92400e; }
     .note-unfiltered{ background: #fef2f2; border: 1px solid #fecaca; color: #991b1b; }
     .stButton > button {
-        background: #111 !important;
+        background: #C0622B !important;
         color: white !important;
         border: none !important;
         padding: 0.65rem 2rem !important;
@@ -111,7 +111,7 @@ st.markdown("""
         font-size: 15px !important;
         width: 100%;
     }
-    .stButton > button:hover { background: #374151 !important; }
+    .stButton > button:hover { background: #a0491d !important; }
     .affiliate-strip {
         background: #f9fafb;
         border: 1px solid #e5e7eb;
@@ -433,7 +433,7 @@ if generate_btn:
     if p_data["aff_label"]:
         st.markdown(
             f'<div class="affiliate-strip">Ready to try it? '
-            f'<a href="{p_data["aff_url"]}" target="_blank" style="color:#111;font-weight:700;">{p_data["aff_label"]} →</a>'
+            f'<a href="{p_data["aff_url"]}" target="_blank" style="color:#C0622B;font-weight:700;">{p_data["aff_label"]} →</a>'
             f'</div>',
             unsafe_allow_html=True,
         )
@@ -441,7 +441,7 @@ if generate_btn:
         # fallback: link to RR best companions article
         st.markdown(
             '<div class="affiliate-strip">Not sure which platform fits you? '
-            '<a href="https://www.roborhythms.com/uncensored-websites-like-character/" target="_blank" style="color:#111;font-weight:700;">'
+            '<a href="https://www.roborhythms.com/uncensored-websites-like-character/" target="_blank" style="color:#C0622B;font-weight:700;">'
             'Compare all AI companion apps →</a></div>',
             unsafe_allow_html=True,
         )
