@@ -186,7 +186,7 @@ PLATFORMS = {
         "group": "semi-open",
         "label": "Semi-open",
         "note": "Supports mature and romantic themes. Opening messages can be suggestive and forward. Avoid graphic content but full relationship dynamic is fair game.",
-        "aff_label": "Try Candy AI", "aff_url": "https://candy.ai/?via=roborhythms",
+        "aff_label": "Try Candy AI", "aff_url": "https://crownmediacreative.com/CandyAI-Chatbot",
     },
     "Kindroid": {
         "group": "semi-open",
@@ -198,7 +198,7 @@ PLATFORMS = {
         "group": "semi-open",
         "label": "Semi-open",
         "note": "Long-term memory companion. Openings that build emotional context and reference shared history land especially well.",
-        "aff_label": None, "aff_url": None,
+        "aff_label": "Try Nomi AI", "aff_url": "https://crownmediacreative.com/NomiAI",
     },
     "EVA AI": {
         "group": "semi-open",
@@ -210,7 +210,7 @@ PLATFORMS = {
         "group": "semi-open",
         "label": "Semi-open",
         "note": "Intimacy-focused platform. Openings that establish closeness and personality from the start fit the platform's design.",
-        "aff_label": None, "aff_url": None,
+        "aff_label": "Try DreamGF", "aff_url": "https://www.roborhythms.com/DreamGf",
     },
     "Botify AI": {
         "group": "semi-open",
@@ -223,13 +223,13 @@ PLATFORMS = {
         "group": "unfiltered",
         "label": "Unfiltered",
         "note": "No content restrictions. Full creative freedom — write as bold, vivid, or intense as the scenario demands.",
-        "aff_label": "Try Crushon.AI", "aff_url": "https://crushon.ai/?ref=roborhythms",
+        "aff_label": "Try Crushon.AI", "aff_url": "https://crownmediacreative.com/CrushOnAI-Chatbot",
     },
     "SpicyChat": {
         "group": "unfiltered",
         "label": "Unfiltered",
         "note": "Adult-oriented platform. Full content freedom. Vivid, immersive openings that establish the scenario immediately work best.",
-        "aff_label": "Try SpicyChat", "aff_url": "https://spicychat.ai/?ref=roborhythms",
+        "aff_label": "Try SpicyChat", "aff_url": "https://www.roborhythms.com/SpicyChatAI",
     },
     "Janitor AI": {
         "group": "unfiltered",
